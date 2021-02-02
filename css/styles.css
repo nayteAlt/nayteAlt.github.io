@@ -5,11 +5,17 @@
 
 body{
     background:  url('/images/sliker.png') no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+    align-content: center;
+    background-attachment: fixed;
     background-size: cover;
+    
+    
 }
+
+html{
+
+}
+
 
 section {
     padding-top: 100px;
@@ -18,7 +24,7 @@ section {
 }
 
 .quote {
-    color: rgba(0,0,0,.1);
+    color: rgba(0,0,0,.3);
     text-align: center;
     margin-bottom: 30px;
 }
@@ -54,15 +60,16 @@ section {
     border: none;
 }
 #fade-quote-carousel .profile-circle {
-    width: 100px;
-    height: 100px;
-    margin: 0 auto;
+    width: 80px;
+    height: 80px;
+    margin: auto;
     border-radius: 100px;
     content: url('/images/headShot.png');
     background-repeat: no-repeat;
 }
 
 p{
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 600;
 }
+
