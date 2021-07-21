@@ -5,7 +5,8 @@ body {
 
 #quote-box {
   background-color: rgba(0,0,0,0.75);
-  padding: 30px;
+  padding: 70px;
+    min-width: 80%;
 }
 
 #quote-box button {
@@ -19,8 +20,8 @@ body {
 }
 
 .vertical-center {
-  min-height: 500%;
-  min-height: 100vh;
+  min-height: 100%;
+  min-height: 94vh;
   display: flex;
   align-items: center;
 }
@@ -28,4 +29,12 @@ body {
 #signature {
   color: white;
   text-align: center;
+}
+
+#quote-text {
+    font-size: 70px;
+}
+
+#quote-author {
+    font-size: 30px;
 }
