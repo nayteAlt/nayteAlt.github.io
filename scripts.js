@@ -114,6 +114,7 @@ $(document).ready(function() {
     $("#quote-text").css("color", randomColor);
     $("#quote-author").css("color", randomColor);
     $("#quote-box button").css("background-color", randomColor);
+    $("#views").css("color", randomColor);
     $("i").css("color", randomColor);
 
   }); // end of new quote function
