@@ -64,6 +64,19 @@ var newQuote;
 
 var twitterQuote = "";
 
+var views = document.getElementById('views');
+
+var concatV = "Views: ";
+
+
+function updateVisitCount() {
+	fetch('https://api.countapi.xyz/update/wienerwiper.com/wienerwiper/?amount=1')
+	.then(res => res.json())
+	.then(res => {
+		views.innerHTML = concatV.concat(" ", res.value)
+	})
+}
+
 $(document).ready(function() {
   // initialize quote to a random one
   randomNum = newRandomNumber();
@@ -114,7 +127,9 @@ $(document).ready(function() {
 
 // returns quote with index randomNum
 function newQuote(randomNum) {
+  updateVisitCount();
   return quoteArray[randomNum];
+    
 }
 
 // returns number corresponding to
