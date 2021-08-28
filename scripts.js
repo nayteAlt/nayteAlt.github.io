@@ -34,7 +34,9 @@ var quoteArray = [
     ["There are no bugs in Montana, it gets too cold.", "-Zac Sliker"],
     ["Articulate isn't even a word, idiot!", "-Zac Sliker"],
     ["I looked it up guys, turns out mermaids aren't real.", "-Zac Sliker"],
-    ["Metal cant scratch non-stick.", "-Zac Sliker"]
+    ["Metal cant scratch non-stick.", "-Zac Sliker"],
+    ["My ears smell like twisted tea", "-Zac Sliker"],
+    ["Onewheel racing is an Olympic sport", "-Zac Sliker"]
 ];
 
 var colorArray = [
