@@ -36,7 +36,8 @@ var quoteArray = [
     ["I looked it up guys, turns out mermaids aren't real.", "-Zac Sliker"],
     ["Metal cant scratch non-stick.", "-Zac Sliker"],
     ["My ears smell like twisted tea", "-Zac Sliker"],
-    ["Onewheel racing is an Olympic sport", "-Zac Sliker"]
+    ["Onewheel racing is an Olympic sport", "-Zac Sliker"],
+    ["The one reason I don't like Ariana Grande... She killed Mac Miller.", "-Zac Sliker"]
 ];
 
 var colorArray = [
