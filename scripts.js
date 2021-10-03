@@ -3,7 +3,7 @@ var quoteArray = [
     ["Cane sugar is good for you because it's not processed and doesn't have bleach like other sugar.", "-Zac Sliker"],
     ["Baking soda and vinegar melts hair.", "-Zac Sliker"],
     ["Pesto is a plant.", "-Zac Sliker"],
-    ["I thought jalapenos grownon trees?", "-Zac Sliker"],
+    ["I thought jalapeños grow on trees?", "-Zac Sliker"],
     ["I heard the salmonfly hatch starts next week. Wanna go catch some salmon?", "-Zac Sliker"],
     ["It hurts to jack off with toothpaste.", "-Zac Sliker"],
     ["Is that a rock or an asphalt?", "-Zac Sliker"],
